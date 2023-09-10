@@ -1,18 +1,21 @@
 # main links
 main:
-  - title: "About me"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Work History"
-    url: /year-archive/
+  - title: "About"
+    url: /about/
+    description: "About Me ..."
+  - title: "Resume"
+    url: /resume/
   - title: "Projects"
-    url: /sitemap/
+    url: /projects/
+  - title: "Blog"
+    url: /blog/
+  - title: "Food"
+    url: /food/
+  - title: "Collections"
+    url: /collections/
   - title: "QS Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Blog"
-    url: /year-archive/
-  - title: "Food"
-    url: /_food/
-  - title: "Collections"
-    url: /collection-archive/
+
   - title: "Sitemap"
     url: /sitemap/
+

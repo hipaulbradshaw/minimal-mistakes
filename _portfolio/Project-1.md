@@ -1,5 +1,5 @@
 ---
-title: "Baz Boomer Identity"
+title: "Project-1y"
 excerpt: "Baz Boomer design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/ProfilePictureSmall.JPG
